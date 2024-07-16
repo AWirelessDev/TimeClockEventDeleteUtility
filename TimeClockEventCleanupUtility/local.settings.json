@@ -1,0 +1,5 @@
+{
+  "WorkdayAPIMBaseUrl": "https://victra-eastus-dev-apim.azure-api.net/hr/v2/",
+  "WorkdayAPIMSubKey": "d669864268e743db92e849bcb2b9fb4c",
+  "Tenant": "victra3"
+} //Dont Push!!
