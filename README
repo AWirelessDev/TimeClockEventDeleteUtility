@@ -1,0 +1,13 @@
+To use this tool:
+
+The APISubscriptionKey will need to be entered. It is not stored in the localSettings file
+
+Enter HRAssociateOID: 
+
+Enter Start date: 
+yyyy-mm-dd (use this format only)
+
+Enter End Date:
+yyyy-mm-dd (use this format only)
+
+Events will be deleted
